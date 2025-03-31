@@ -1,0 +1,13 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial, sans-serif;
+}
+
+.banner {
+    background-color: #f8f9fa;
+}
+
+.footer {
+    background-color: #f1f1f1;
+}
